@@ -1,3 +1,6 @@
+#The png files where created by a friend and university classmate.
+#
+
 import pygame
 import cmath
 import sys
